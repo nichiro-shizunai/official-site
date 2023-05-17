@@ -1,0 +1,26 @@
+.cc_by_40 {
+  text-shadow:
+            2px  2px 5px gray,
+           -2px  2px 5px gray,
+            2px -2px 5px gray,
+           -2px -2px 5px gray;
+  position:absolute;
+  bottom:0.5%;
+  left:0.5%;
+  margin:auto;"
+}
+
+.on_text_shadow {
+  text-shadow:
+           2px  2px 5px gray,
+          -2px  2px 5px gray,
+           2px -2px 5px gray,
+          -2px -2px 5px gray;
+}
+
+.cc_by_40_link {
+  margin-top: 0;
+  margin-left: 1%;
+  position: absolute;
+  color: #242424;
+}
