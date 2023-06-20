@@ -79,8 +79,9 @@ $(window).load(function(){
 
   /* Testimonials */
   var swiper = new Swiper('.js__swiper-testimonials', {
-    pagination: '.js__swiper-fraction',
-    paginationType: 'fraction',
+    pagination: '.js__swiper-pagination-t',
+    // pagination: '.js__swiper-fraction',
+    // paginationType: 'fraction',
     paginationClickable: true,
     nextButton: '.js__swiper-btn--next',
     prevButton: '.js__swiper-btn--prev',

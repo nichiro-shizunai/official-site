@@ -2379,3 +2379,18 @@ fieldset[disabled] .s-btn {
   padding-top: 50px;
   margin-top: -50px;
 }
+
+.point-words {
+
+  padding-left: 0;
+}
+.point-words li {
+  text-decoration-line: underline;
+  text-decoration-style: double;
+  font-weight: bold;
+}
+.detail-block img {
+  max-width: 530px;
+  width: 100%;
+  margin: 1%;
+}
