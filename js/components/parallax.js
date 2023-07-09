@@ -4,7 +4,7 @@ var Parallax = function() {
 
   // Handle Parallax
   var handleParallax = function() {
-    $('.js__parallax-window').parallax("50%", 0.1);
+    $('.js__parallax-window').parallax("60%", 0.1);
   }
 
   return {

@@ -12,6 +12,8 @@ $(window).load(function(){
   var swiper = new Swiper('.js__swiper-slider', {
     pagination: '.js__swiper-pagination',
     paginationClickable: true,
+    nextButton: '.js__swiper-btn--next',
+    prevButton: '.js__swiper-btn--prev',
     speed: 1000,
     autoplay: 7000,
     loop: true
